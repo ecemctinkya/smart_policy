@@ -1,7 +1,7 @@
-# smart_policy
+#🏢 Insurance Customer Retention — Classification Project
 Insurance Data Analysis
 
-🏢 Insurance Customer Retention — Classification Project
+
 Prediction of whether an insurance customer will renew their policy, based on demographic, behavioral, product ownership, and financial variables.
 
 📌 Project Overview
